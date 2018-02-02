@@ -1,0 +1,57 @@
+* {
+	box-sizing: border-box;	
+}
+
+body {
+  background-color: #d1d8e0;
+  font-family: 'Lato', sans-serif;
+
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+#app {
+  margin: 0 auto;
+}
+
+.contactForm {
+  background: #aaa69d;
+  padding: 20px;
+}
+input,
+button {
+  padding: 10px;
+  margin: 5px 5px;
+}
+button {
+  background-color: #70a1ff;
+  color: #fff;
+  display: inline;
+  margin-left: 15px;
+  cursor: pointer;
+  border: solid 1px #fff;
+}
+.contactItem {
+  padding: 10px;
+  margin: 5px 0;
+  background-color: #222f3e;
+  color: #fff;
+  
+}
+a {
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+}
+.contactItem img {
+  float: left;
+  width: 100px;
+}
+.contactEmail{
+	color: #fff;
+}
+	
